@@ -26,16 +26,26 @@ brew "go"
 brew "openssl@3"
 brew "readline"
 brew "tcl-tk"
-brew "vs-code"
 brew "nvm"
 brew "ffmpeg"
-brew "vlc"
 brew "coreutils"
 
 # Casks
+
 cask "1password-cli"
 cask "chromium"
 cask "font-hack-nerd-font"
 cask "gitkraken-cli"
 cask "docker"
 cask "slack"
+cask "vlc"
+
+# TODO 
+# 1Password App
+# Arc
+# Terraform
+# Linear
+# BusyCal
+# Figma
+# iTerm2
+# cask "vs-code"
